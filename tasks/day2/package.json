@@ -1,0 +1,12 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "tsc && node dist/task_1/task.js",
+    "task2": "tsc && node dist/task_2/task.js"
+  },
+  "author": "Finn Bon",
+  "license": "ISC"
+}
